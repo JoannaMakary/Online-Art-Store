@@ -7,6 +7,7 @@ It is written in HTML/CSS, PHP, JavaScript (jQuery), and uses a MySQL database.
 - Click on an item's Name (ex. Guernica) to view a detailed page
 - Shopping Cart (add, remove artworks)
 - Search for Artworks
-- Maintain/Edit Database through U
+- Maintain/Edit Database through UI
+- Leave Reviews on blog page
 
 <b>Demo:</b> http://www2.scs.ryerson.ca/~kthavane/CPS630A2/assignment2-Team4.php
